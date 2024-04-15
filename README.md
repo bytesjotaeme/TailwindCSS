@@ -2,5 +2,5 @@ Aprende TailwindCSS con esté proyecto web utilizando Next.js y TailwindCSS. Inc
 
 Muestro el inicio y final del programa:
 
-![Captura de Pantalla](https://github.com/bytesjotaeme/Aprende_TailwindCSS/blob/main/preview.PNG)
-![Captura de Pantalla](https://github.com/bytesjotaeme/Aprende_TailwindCSS/blob/main/preview02.PNG)
+![Captura de Pantalla](https://github.com/bytesjotaeme/TailwindCSS/blob/main/preview.PNG)
+![Captura de Pantalla](https://github.com/bytesjotaeme/TailwindCSS/blob/main/preview02.PNG)
